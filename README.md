@@ -2,7 +2,7 @@
 ## My Skils:
 
 ### Languages I use:
-[![Langauges](https://skillicons.dev/icons?i=js,python, html,css)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,python,html,css)](https://skillicons.dev)
 - Javascript, Python, HTML, CSS
 
 <!--
