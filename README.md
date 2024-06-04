@@ -1,5 +1,5 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=trevorhuang1)](https://github.com/anuraghazra/github-readme-stats)
-## My Skils:
+## My Skills:
 
 ### Languages I use:
 [![Languages](https://skillicons.dev/icons?i=js,python,html,css)](https://skillicons.dev)
