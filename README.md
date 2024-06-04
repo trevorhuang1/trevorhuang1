@@ -5,6 +5,9 @@
 [![Languages](https://skillicons.dev/icons?i=js,python,html,css)](https://skillicons.dev)
 - Javascript, Python, HTML, CSS
 
+### Languages I am learning:
+[![Languages](https://skillicons.dev/icons?i=c++,java,c#)](https://skillicons.dev)
+- C++, Java, C#
 <!--
 **trevorhuang1/trevorhuang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
