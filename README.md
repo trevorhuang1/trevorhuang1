@@ -1,5 +1,9 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=trevorhuang1)](https://github.com/anuraghazra/github-readme-stats)
-## Hi there 👋
+## My Skils:
+
+### Languages I use:
+[![Langauges](https://skillicons.dev/icons?i=js,python, html,css)](https://skillicons.dev)
+- Javascript, Python, HTML, CSS
 
 <!--
 **trevorhuang1/trevorhuang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
