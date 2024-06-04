@@ -8,6 +8,12 @@
 ### Languages I am learning:
 [![Languages](https://skillicons.dev/icons?i=cpp,java,c#)](https://skillicons.dev)
 - C++, Java, C#
+
+## Interests:
+- Full stack development
+- Machine Learning
+- Robotics
+- Education
 <!--
 **trevorhuang1/trevorhuang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
